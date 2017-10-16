@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "78457492481",
+    "firebase_url": "https://ihateprogram.firebaseio.com",
+    "project_id": "ihateprogram",
+    "storage_bucket": "ihateprogram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78457492481:android:51757af0450de944",
+        "android_client_info": {
+          "package_name": "com.example.cosain.firebasehaters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78457492481-19ccmmluqcj2j78nc2a105ll2mtrammu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfp--0akMVfzdEr2gfeTDK3lzV-DSVOjA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
